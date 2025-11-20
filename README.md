@@ -42,9 +42,9 @@ Open menu with nested navigation items
 Project Structure
 
 src/components/
-├── Input/ # Input with types, clear, password toggle
-├── Toast/ # Notifications with auto-dismiss
-└── SidebarMenu/ # Slide-in menu with nested items
+  Input/ # Input with types, clear, password toggle
+  Toast/ # Notifications with auto-dismiss
+  SidebarMenu/ # Slide-in menu with nested items
 
 🛠 Development
 
