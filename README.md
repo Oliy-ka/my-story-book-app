@@ -43,11 +43,11 @@ Project Structure
 
 src/components/
 
-  Input/ # Input with types, clear, password toggle
+  - Input/ # Input with types, clear, password toggle
   
-  Toast/ # Notifications with auto-dismiss
+  - Toast/ # Notifications with auto-dismiss
   
-  SidebarMenu/ # Slide-in menu with nested items
+  - SiebarMenu/ # Slide-in menu with nested items
 
 🛠 Development
 
